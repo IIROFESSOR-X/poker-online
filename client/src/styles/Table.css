@@ -1,0 +1,9 @@
+.table {
+  width: 80%;
+  margin: auto;
+  background-color: green;
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+  position: relative;
+}
